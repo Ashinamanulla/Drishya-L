@@ -1,4 +1,4 @@
-const express=require('Express');
+const express=require('express');
 const signupRouter=express.Router();
 const userdata=require('../model/userdata');
 function router(nav)

@@ -1,4 +1,4 @@
-const express=require('Express');
+const express=require('express');
 const deleteARouter=express.Router();
 const authordata=require('../model/authordata');
 
